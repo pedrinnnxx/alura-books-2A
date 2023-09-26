@@ -3,6 +3,8 @@ cabecalho-menu-hamburguer {
     height: 24px;
     background-image: url("../img/Menu.svg");
     display: inline-block;
+    background-image: no-repeat;
+    background-position: center;
 }
 
 .cabecalho {
@@ -17,3 +19,6 @@ cabecalho-menu-hamburguer {
     align-items: center;
 }
 
+.container-img {
+    padding: 1em;
+}
